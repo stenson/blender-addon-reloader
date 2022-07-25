@@ -1,0 +1,1 @@
+BLENDER = "~/Desktop/Blenders/Blender3.2.1.app"

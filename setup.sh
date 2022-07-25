@@ -1,0 +1,1 @@
+alias blender=$(python3.10 scripts/install.py)
