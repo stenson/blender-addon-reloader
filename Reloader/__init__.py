@@ -118,7 +118,6 @@ class WM_OT_ReloaderReloadAddons(bpy.types.Operator):
     bl_label = "Reload Addons"
 
     def execute(self, context):
-        print("HERE!")
         bpy.ops.script.reload()
         return {'FINISHED'}
 
